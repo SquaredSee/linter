@@ -43,7 +43,7 @@
     "atom-select-list": "0.2.0",
     "cool-trim": "^1.1.1",
     "lodash.uniq": "^4.5.0",
-    "minimatch": "^3.0.3",
+    "minimatch": "^3.0.4",
     "sb-debounce": "^1.0.1",
     "sb-fs": "^3.0.0"
   },
